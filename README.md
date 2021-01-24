@@ -1,2 +1,2 @@
-# BEEE_CU19
-This repository contains BEEE lab Experiments.
+# Arduino Uno
+This repository contains some basic arduino uno code.
